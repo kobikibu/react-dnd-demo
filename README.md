@@ -16,5 +16,5 @@ A basic set up of the drag & drop functionality.
  
 > Who are the guys in the paintings ?
 
-![DnD example in React before drag](https://github.com/kobikibu/dnd-react/blob/main/public/step1.png)
-![DnD example in React after drop](https://github.com/kobikibu/dnd-react/blob/main/public/step2.png)
+![DnD example in React before drag](https://github.com/kobikibu/react-dnd-demo/blob/main/public/step1.png)
+![DnD example in React after drop](https://github.com/kobikibu/react-dnd-demo/blob/main/public/step2.png)
